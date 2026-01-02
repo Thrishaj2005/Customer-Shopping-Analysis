@@ -35,13 +35,9 @@ The dataset contains the following columns:
 
 4. **Sales by Age Group**  
    - Groups customers into age bins (e.g., 20–29, 30–39).  
-   - Reveals spending trends by age.  
-
-5. **Sales by Category and Gender (Stacked Bar)**  
-   - Shows gender contribution within each category.  
-   - Totals displayed on top of each stacked bar.  
-
-6. **Price Distribution**  
+   - Reveals spending trends by age.
+     
+5. **Price Distribution**  
    - Histogram and boxplots to highlight common price ranges (e.g., 300, 600, 1200, 1500, 3000+).  
 
 
