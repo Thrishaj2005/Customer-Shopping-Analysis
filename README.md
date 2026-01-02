@@ -1,11 +1,10 @@
-# RTC: Customer Shopping Data Analysis
+# Customer Shopping Data Analysis
 
 ## 📌 Project Overview
 This project analyzes customer shopping behavior using Python (Pandas, Matplotlib, Seaborn) in Jupyter Notebook.  
 The dataset includes invoices, customer demographics, product categories, prices, quantities, payment methods, and shopping mall details.  
 The goal is to uncover insights into **sales trends, pricing patterns, and customer preferences**.
 
----
 
 ## 📂 Dataset Structure
 The dataset contains the following columns:
@@ -21,7 +20,6 @@ The dataset contains the following columns:
 - `invoice_date` → Date of purchase  
 - `shopping_mall` → Mall where purchase occurred  
 
----
 
 ## 📊 Key Analyses
 1. **Total Sales by Category**  
@@ -46,17 +44,9 @@ The dataset contains the following columns:
 6. **Price Distribution**  
    - Histogram and boxplots to highlight common price ranges (e.g., 300, 600, 1200, 1500, 3000+).  
 
----
 
 ## 🛠️ Tools & Libraries
 - **Python 3**  
 - **Jupyter Notebook**  
 - **Pandas** → Data manipulation  
 - **Matplotlib / Seaborn** → Visualization  
-
----
-
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Thrishaj2005/Customer-Shopping-Analysis.git
